@@ -15,17 +15,17 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=basiq-ash&show_icons=true&include_all_commits=true&theme=buefy" alt="Ashman's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiq-ash&layout=compact&theme=buefy" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=basiq-ash&count_private=true" alt="Ashman's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmanmalik&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/basiqio/api-ref">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiq-ash&repo=api-ref&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=api-ref&theme=buefy" />
 </a>
 <a href="https://github.com/ashmanmalik/data-validation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiq-ash&repo=data-validation&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=data-validation&theme=buefy" />
 </a>
 
 
