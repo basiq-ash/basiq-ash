@@ -1,4 +1,4 @@
-<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71918&multiline=true&width=435&lines=Hi+There%2C+My+Name+is+Ashman+Malik)](#)</centre></code>
+<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=22&pause=1000&color=3648F7&width=435&lines=Ashman+Malik)](#)</centre></code>
 
 **About me**
 
