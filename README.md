@@ -1,5 +1,7 @@
 <code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=28&pause=1000&color=3648F7&width=200&lines=Ashman+Malik)](#)</centre></code>
 
+![](https://komarev.com/ghpvc/?username=basiq-ash&label=PROFILE+VIEWS)
+
 **About me**
 
 - 💼 Product Specialist at [BASIQ](https://basiq.io/)
