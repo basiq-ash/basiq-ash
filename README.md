@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Product Specialist at [BASIQ](https://basiq.io/)
+- 💼 Product Owner at [BASIQ](https://basiq.io/)
 
 - ❤️ I love writing Javascript, and building fun experiments with API first platform. 
 
