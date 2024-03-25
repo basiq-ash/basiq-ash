@@ -8,7 +8,7 @@
 </a>
 </p>  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500px" height="100%"  />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/basiq-ash/basiq-ash/main/code.gif?raw=true" width="500px" height="100%"  />
 
 
 **About me**
