@@ -3,11 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=basiq-ash&label=PROFILE+VIEWS)
 
 <p>
-<a href="https://github.com/basiq-ash">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=Basiqio&role=Product%20Owner&duration=32m&location=Brisbane&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" /> 
+<a href="https://stackoverflow.com/users/3831566/ashman-malik">
+    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=3831566" />
 </a>
-</p>  
-
+    <a href="https://github.com/basiq-ash">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=Basiqio&role=Product%20Owner&duration=35m&location=Brisbane&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" /> 
+</a>
+</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/basiq-ash/basiq-ash/main/code.gif?raw=true" width="500px" height="100%"  />
 
 
