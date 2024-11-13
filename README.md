@@ -40,10 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=api-ref&theme=buefy" />
 </a>
 <a href="https://github.com/ashmanmalik/data-validation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=data-validation&card_width=850" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=data-validation&theme=buefy" />
 </a>
 
 
 ### Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=basiq-ash&theme=ocean-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=basiq-ash&theme=ocean-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=850)](https://git.io/streak-stats)
