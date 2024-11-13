@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://github.com/basiq-ash">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=Cuscal&role=Associate%20Product%20Owner&duration=36m&location=Brisbane&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" /> 
+<img  src="https://readme-components.vercel.app/api?component=experience&company=Cuscal&role=Associate%20Product%20Owner&duration=36m&location=Brisbane&fill=white&textfill=000000" /> 
 </a>
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/basiq-ash/basiq-ash/main/code.gif?raw=true" width="500px" height="100%"  />
