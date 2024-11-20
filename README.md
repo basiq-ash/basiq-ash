@@ -30,7 +30,7 @@
 
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=basiq-ash&count_private=true" alt="Ashman's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmanmalik&layout=compact&theme=buefy" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=basiq-ash&count_private=true&rank_icon=percentile" alt="Ashman's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmanmalik&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
