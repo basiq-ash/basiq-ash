@@ -12,7 +12,7 @@
 
 **About me**
   
-- 💼 Product Owner at BASIQ
+- 💼 Associate Product Owner at Cuscal, Regulated Data Domain
 
 - I love writing Javascript, and building fun experiments with API first platform.
 
