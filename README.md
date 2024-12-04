@@ -42,7 +42,9 @@
 <a href="https://github.com/ashmanmalik/data-validation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=data-validation&theme=buefy" />
 </a>
-
+<a href="https://github.com/basiqio-oss/Basiq-docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiq-ash&repo=Basiq-docs&show_icons=true" />
+</a>
 
 ### Streaks
 
